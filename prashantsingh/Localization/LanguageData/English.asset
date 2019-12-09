@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775ff96d011744edeb31238675e6f256, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  wordsCollection:
+  - id: login_username
+    translatedWord: Username
+  - id: login_password
+    translatedWord: Password
+  - id: login_username_1
+    translatedWord: Enter Username
+  - id: login_password_1
+    translatedWord: Enter Password
+  - id: login_forgotpassword
+    translatedWord: Forgot Password?
+  - id: login_loginbtn
+    translatedWord: LOGIN
+  - id: fp_submitbtn
+    translatedWord: SUBMIT
+  - id: fp_email
+    translatedWord: Email
+  - id: fp_email_1
+    translatedWord: Enter Registered Email
+  - id: fp_email_info
+    translatedWord: Check your email for password reset link.
+  - id: tutorial_title
+    translatedWord: Tutorial
+  - id: tutorial_description
+    translatedWord: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.   Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - id: cp_title
+    translatedWord: CHANGE PASSWORD
+  - id: cp_password
+    translatedWord: Enter Current Password
+  - id: cp_password_new
+    translatedWord: Enter New Password
+  - id: cp_password_repeat
+    translatedWord: Re-enter New Password
+  - id: cp_savebtn
+    translatedWord: SAVE
+  - id: settings_title
+    translatedWord: SETTINGS
+  - id: settings_music
+    translatedWord: Music
+  - id: settings_sound
+    translatedWord: Sound
+  - id: settings_password
+    translatedWord: Password
+  - id: settings_change
+    translatedWord: Change
+  - id: settings_logoutbtn
+    translatedWord: LOGOUT
+  - id: settings_on
+    translatedWord: On
+  - id: settings_off
+    translatedWord: Off
+  - id: pause_title
+    translatedWord: PAUSE
+  - id: pause_resume
+    translatedWord: RESUME
+  - id: pause_home
+    translatedWord: HOME
